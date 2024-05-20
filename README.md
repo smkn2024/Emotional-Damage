@@ -4,6 +4,7 @@
   <br><img src="https://github.com/NiREvil/Emotional-Damage/assets/126243832/66c9bdfb-9e74-4a91-a7d3-9a180450c690" width="320px">
 </p>
 
+🇮🇷[Persian](README.fa.md) - 🇬🇧[English](README.md)
 
 ###### Huge thanks to Dear 3KmFi6HP
 [![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/3Kmfi6HP/EDtunnel)
