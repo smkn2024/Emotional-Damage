@@ -94,7 +94,7 @@
    <!-- let portArray_http = [80, 8080, 8880, 2052, 2086, 2095];
 	let portArray_https = [443, 8443, 2053, 2096, 2087, 2083]; -->
 
-برای لیستی از پورت های پشتیبانی شده از Cloudflare، لطفاً به ادامه مطلب مراجعه کنید[اسناد رسمی](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/ports).
+برای لیستی از پورت های پشتیبانی شده از Cloudflare، لطفاً به آدرس زیر مراجعه کنید[اسناد رسمی](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/ports).
 
 به طور پیش فرض، پورت 80 و 443 است. اگر می خواهید پورت های بیشتری اضافه کنید، می توانید از پورت های زیر استفاده کنید:
 
