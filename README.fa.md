@@ -67,7 +67,7 @@
     توجه: uuid1، uuid2، uuid3 با کاما از هم جدا می شوند`,`.
     وقتی چند uuid را تنظیم می کنید، می توانید استفاده کنید`https://edtunnel.pages.dev/uuid1`برای دریافت پیوند clash config و vless://.
 
-## اشتراک vless لینک
+## Subscribe vless link
 
 1.  بازدید کنید`https://edtunnel.pages.dev/uuid your set`برای دریافت لینک اشتراک
 
@@ -85,7 +85,7 @@
 
 1.  بازدید کنید`https://edtunnel.pages.dev/bestip/uuid your set`برای دریافت اطلاعات اشتراک
 
-2.  لینک url اشتراک cpoy`https://edtunnel.pages.dev/bestip/uuid your set`به هر کلاینت (clash/v2rayN/v2rayNG) که می خواهید استفاده کنید.
+2.  لینک آدرس cpoy اشتراک`https://edtunnel.pages.dev/bestip/uuid your set`به هر کلاینت (clash/v2rayN/v2rayNG) که می خواهید استفاده کنید.
 
 3.  انجام شده. اگر سوالی دارید لطفا بپیوندید[@edtunnel](https://t.me/edtunnel)یا[@F_NiREvil](https://t.me/F_NiREvil)
 
@@ -112,7 +112,7 @@ https port: 443, 8443, 2053, 2096, 2087, 2083
 
 2.  هنگام استقرار در worker.dev، می توانید پروکسی IP را در آن تنظیم کنید`_worker.js`فایل. نام متغیر است`proxyIP`.
 
-![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)نحوه پیدا کردن پروکسی[(منبع)](https://github.com/NiREvil/vless/edit/main/sub/ProxyIP.md)![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)توجه داشته باشید:`proxyIP`آی پی یا دامنه ای است که می خواهید تنظیم کنید. این بدان معنی است که پروکسی IP برای هدایت ترافیک از طریق یک پروکسی به جای مستقیم به وب سایتی که از Cloudflare (CDN) استفاده می کند، استفاده می شود. اگر این متغیر را تنظیم نکنید، اتصال به IP Cloudflare لغو (یا مسدود می شود)...
+![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)نحوه پیدا کردن پروکسی[(منبع)](https://github.com/NiREvil/vless/edit/main/sub/ProxyIP.md)![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)توجه داشته باشید:`proxyIP`آی پی یا دامنه ای است که می خواهید تنظیم کنید. این بدان معنی است که پروکسی IP برای هدایت ترافیک از طریق یک پروکسی به جای مستقیم به وب سایتی که از Cloudflare (CDN) استفاده می کند استفاده می شود. اگر این متغیر را تنظیم نکنید، اتصال به IP Cloudflare لغو (یا مسدود می شود)...
 
 دلایل: سوکت های خروجی TCP به محدوده IP Cloudflare به طور موقت مسدود شده اند، لطفاً به[اسناد tcp-sockets](https://developers.cloudflare.com/workers/runtime-apis/tcp-sockets/#considerations)
 
